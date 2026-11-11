@@ -1,6 +1,0 @@
-services:
-    - type: web
-    name: marcus-ideal
-    env: python
-    startCommand: python app.py
-    plan: free
